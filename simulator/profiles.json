@@ -1,0 +1,6 @@
+{
+  "profiles": [
+    { "name": "tortimer", "steps": "few", "dismisses_suggestions": true },
+    { "name": "resetti", "steps": "minimal", "uses_recommendations_only": true }
+  ]
+}
