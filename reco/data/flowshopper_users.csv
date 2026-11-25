@@ -1,0 +1,1001 @@
+user_id,declared_diets,declared_allergens,favorite_categories
+V-0001,,,
+V-0002,,,Dairy & Eggs
+V-0003,,,Bakery
+V-0004,,,Frozen
+V-0005,,,Frozen
+V-0006,,,Juices & Smoothies|Bakery|Dairy & Eggs
+V-0007,,,Pantry|Fruits & Vegetables
+V-0008,,,
+V-0009,,,Pantry|Fruits & Vegetables
+V-0010,,,Dairy & Eggs|Frozen
+V-0011,,,Juices & Smoothies|Fruits & Vegetables
+V-0012,,,
+V-0013,,,
+V-0014,vegan,,Snacks & Sweets
+V-0015,,peanuts,Bakery
+V-0016,vegetarian,,Frozen|Dairy & Eggs|Pantry
+V-0017,,,Dairy & Eggs|Frozen|Water & Soft Drinks
+V-0018,,,
+V-0019,vegetarian,,
+V-0020,,,Frozen|Dairy & Eggs
+V-0021,vegetarian,,
+V-0022,vegetarian,,
+V-0023,,fish,Frozen|Water & Soft Drinks|Pantry
+V-0024,,,
+V-0025,,,
+V-0026,,gluten|nuts,
+V-0027,,milk,
+V-0028,,,Bakery
+V-0029,gluten_free,,Meat & Fish|Pantry|Juices & Smoothies
+V-0030,,peanuts,Dairy & Eggs|Juices & Smoothies
+V-0031,,,Dairy & Eggs|Fruits & Vegetables|Pantry
+V-0032,,,
+V-0033,,,Snacks & Sweets|Frozen
+V-0034,,,
+V-0035,,,Frozen|Juices & Smoothies
+V-0036,,,Frozen|Water & Soft Drinks
+V-0037,,eggs,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0038,,,Frozen|Dairy & Eggs|Pantry
+V-0039,gluten_free,peanuts,
+V-0040,,gluten,Juices & Smoothies|Meat & Fish
+V-0041,,,Dairy & Eggs|Juices & Smoothies
+V-0042,vegetarian,,
+V-0043,,,Snacks & Sweets|Bakery
+V-0044,,,Bakery|Meat & Fish|Water & Soft Drinks
+V-0045,,,Snacks & Sweets|Water & Soft Drinks|Frozen
+V-0046,,,
+V-0047,,,
+V-0048,,,
+V-0049,,,Frozen
+V-0050,,,Bakery
+V-0051,,,Snacks & Sweets|Bakery
+V-0052,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0053,,,Juices & Smoothies
+V-0054,,,
+V-0055,,,Meat & Fish
+V-0056,,,Bakery|Juices & Smoothies
+V-0057,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0058,,,Fruits & Vegetables
+V-0059,,,
+V-0060,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0061,,,
+V-0062,,,
+V-0063,,milk,
+V-0064,,,Dairy & Eggs
+V-0065,,,Bakery|Juices & Smoothies|Dairy & Eggs
+V-0066,,,
+V-0067,,,
+V-0068,,,
+V-0069,,,
+V-0070,,,Juices & Smoothies|Dairy & Eggs
+V-0071,,,
+V-0072,,milk,
+V-0073,,,Bakery
+V-0074,,,
+V-0075,,,Snacks & Sweets
+V-0076,,,
+V-0077,,,Bakery|Pantry
+V-0078,,fish,Dairy & Eggs|Frozen
+V-0079,,,
+V-0080,,,
+V-0081,,milk,Meat & Fish
+V-0082,,,
+V-0083,,,
+V-0084,,,
+V-0085,,,Juices & Smoothies
+V-0086,,milk,
+V-0087,,,Bakery|Pantry|Dairy & Eggs
+V-0088,,,Bakery|Frozen
+V-0089,,milk,
+V-0090,,,
+V-0091,,,Frozen
+V-0092,vegan,nuts,Pantry|Fruits & Vegetables
+V-0093,,,
+V-0094,,,Frozen
+V-0095,,milk,
+V-0096,,,
+V-0097,,,Frozen|Water & Soft Drinks
+V-0098,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0099,,,
+V-0100,,,Bakery|Dairy & Eggs
+V-0101,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0102,,,Bakery|Juices & Smoothies
+V-0103,vegan,,Pantry|Fruits & Vegetables
+V-0104,,,
+V-0105,,,Dairy & Eggs
+V-0106,vegan,,Bakery|Juices & Smoothies|Snacks & Sweets
+V-0107,,,
+V-0108,,,Pantry|Bakery
+V-0109,,,Bakery|Juices & Smoothies|Dairy & Eggs
+V-0110,,,Frozen|Pantry
+V-0111,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0112,vegetarian,,Fruits & Vegetables
+V-0113,vegetarian,,Bakery|Pantry|Snacks & Sweets
+V-0114,,,
+V-0115,,,
+V-0116,,gluten,Dairy & Eggs|Meat & Fish
+V-0117,,eggs,Pantry
+V-0118,,,Bakery|Pantry
+V-0119,,,
+V-0120,vegetarian,,Frozen
+V-0121,,,
+V-0122,,,
+V-0123,,,Fruits & Vegetables
+V-0124,,,Frozen
+V-0125,,,Dairy & Eggs
+V-0126,,,
+V-0127,,,
+V-0128,,,
+V-0129,,,
+V-0130,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0131,,,Fruits & Vegetables|Pantry
+V-0132,,,Pantry|Fruits & Vegetables|Meat & Fish
+V-0133,,,Frozen|Snacks & Sweets|Water & Soft Drinks
+V-0134,,,Fruits & Vegetables|Pantry|Water & Soft Drinks
+V-0135,,,
+V-0136,,,Frozen
+V-0137,,,
+V-0138,,,Bakery
+V-0139,,,
+V-0140,,,
+V-0141,,,Fruits & Vegetables|Snacks & Sweets|Pantry
+V-0142,,,
+V-0143,,,Dairy & Eggs
+V-0144,,,
+V-0145,,,Bakery
+V-0146,,,Dairy & Eggs|Meat & Fish|Fruits & Vegetables
+V-0147,,,Frozen|Meat & Fish|Pantry
+V-0148,,,Frozen
+V-0149,,,Pantry|Fruits & Vegetables|Meat & Fish
+V-0150,,,Bakery|Pantry
+V-0151,,,Snacks & Sweets
+V-0152,,,
+V-0153,,,
+V-0154,,,Dairy & Eggs|Juices & Smoothies
+V-0155,,,Dairy & Eggs
+V-0156,,gluten|peanuts,
+V-0157,,,
+V-0158,,,
+V-0159,,,Frozen|Dairy & Eggs
+V-0160,,gluten,Fruits & Vegetables
+V-0161,,,Frozen
+V-0162,,,
+V-0163,,,Snacks & Sweets
+V-0164,,,Meat & Fish|Dairy & Eggs
+V-0165,,,
+V-0166,,,Frozen|Dairy & Eggs|Bakery
+V-0167,,,
+V-0168,,gluten,Pantry
+V-0169,,,
+V-0170,,,Frozen|Pantry|Water & Soft Drinks
+V-0171,,,Dairy & Eggs|Fruits & Vegetables|Juices & Smoothies
+V-0172,vegetarian,,Frozen|Pantry
+V-0173,,,Frozen|Pantry
+V-0174,,,
+V-0175,,,
+V-0176,,gluten,Juices & Smoothies
+V-0177,,,
+V-0178,,,Bakery
+V-0179,,,
+V-0180,,,
+V-0181,,,Water & Soft Drinks
+V-0182,,,
+V-0183,,,Snacks & Sweets|Bakery|Frozen
+V-0184,,,Dairy & Eggs|Water & Soft Drinks|Frozen
+V-0185,,,Snacks & Sweets|Bakery
+V-0186,gluten_free,,Juices & Smoothies|Fruits & Vegetables|Pantry
+V-0187,,,
+V-0188,,,Bakery|Pantry|Dairy & Eggs
+V-0189,,gluten,Dairy & Eggs|Juices & Smoothies|Water & Soft Drinks
+V-0190,,,
+V-0191,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0192,,,
+V-0193,,,
+V-0194,,,Bakery|Dairy & Eggs|Frozen
+V-0195,,,Frozen|Dairy & Eggs
+V-0196,vegetarian,,
+V-0197,,,Fruits & Vegetables|Pantry|Dairy & Eggs
+V-0198,,,
+V-0199,,nuts,
+V-0200,,nuts,Bakery|Pantry|Fruits & Vegetables
+V-0201,,,
+V-0202,,,Fruits & Vegetables|Pantry|Dairy & Eggs
+V-0203,,,
+V-0204,,,Pantry
+V-0205,,,Dairy & Eggs
+V-0206,,,
+V-0207,,,Frozen
+V-0208,,,Pantry
+V-0209,,,Frozen|Water & Soft Drinks|Pantry
+V-0210,gluten_free,,Fruits & Vegetables
+V-0211,,,Dairy & Eggs|Pantry
+V-0212,,,Frozen|Dairy & Eggs|Pantry
+V-0213,,nuts,Dairy & Eggs
+V-0214,,peanuts,
+V-0215,,nuts,Bakery|Pantry|Water & Soft Drinks
+V-0216,,milk,
+V-0217,,,
+V-0218,,,Bakery|Pantry|Snacks & Sweets
+V-0219,,,
+V-0220,vegetarian,,Dairy & Eggs|Frozen|Pantry
+V-0221,,,Fruits & Vegetables
+V-0222,,,Dairy & Eggs
+V-0223,vegetarian,,Dairy & Eggs|Frozen
+V-0224,vegetarian,,
+V-0225,,nuts,Frozen
+V-0226,,,
+V-0227,,peanuts,Frozen|Pantry
+V-0228,vegetarian,,Fruits & Vegetables|Pantry
+V-0229,,nuts,Bakery
+V-0230,,,Frozen|Bakery
+V-0231,,,Fruits & Vegetables|Pantry
+V-0232,,,Pantry|Bakery|Dairy & Eggs
+V-0233,,gluten,Meat & Fish|Water & Soft Drinks
+V-0234,vegetarian,,
+V-0235,,,Frozen|Pantry
+V-0236,,gluten,Frozen|Dairy & Eggs
+V-0237,vegetarian,,Frozen|Pantry|Water & Soft Drinks
+V-0238,,,
+V-0239,,,Bakery
+V-0240,,,Juices & Smoothies|Dairy & Eggs|Fruits & Vegetables
+V-0241,vegetarian,,
+V-0242,,,
+V-0243,,,Water & Soft Drinks|Frozen|Dairy & Eggs
+V-0244,vegan,,
+V-0245,,,Snacks & Sweets|Frozen
+V-0246,,,Frozen|Bakery
+V-0247,,,
+V-0248,,,
+V-0249,,,
+V-0250,,,Fruits & Vegetables|Pantry
+V-0251,,nuts,
+V-0252,,,Bakery
+V-0253,,milk,
+V-0254,,,
+V-0255,,,
+V-0256,,gluten,Pantry|Water & Soft Drinks
+V-0257,,,Dairy & Eggs
+V-0258,,,Frozen|Bakery
+V-0259,,nuts,
+V-0260,,,
+V-0261,gluten_free,,Meat & Fish|Juices & Smoothies|Pantry
+V-0262,vegan,,Juices & Smoothies|Fruits & Vegetables
+V-0263,,,
+V-0264,vegetarian,,Dairy & Eggs|Fruits & Vegetables
+V-0265,,,Dairy & Eggs|Frozen
+V-0266,,,
+V-0267,,,Pantry|Fruits & Vegetables
+V-0268,,,
+V-0269,,,
+V-0270,,sesame,Dairy & Eggs|Frozen|Pantry
+V-0271,,,
+V-0272,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0273,,,
+V-0274,,,Fruits & Vegetables|Pantry
+V-0275,,soy,
+V-0276,,,
+V-0277,,,Water & Soft Drinks|Dairy & Eggs|Meat & Fish
+V-0278,,,
+V-0279,,,Bakery
+V-0280,,,Bakery|Pantry
+V-0281,,,Meat & Fish|Water & Soft Drinks
+V-0282,,,Dairy & Eggs|Meat & Fish|Water & Soft Drinks
+V-0283,,,Frozen|Juices & Smoothies
+V-0284,,,Bakery|Pantry|Dairy & Eggs
+V-0285,,,Dairy & Eggs|Juices & Smoothies|Frozen
+V-0286,,,Juices & Smoothies|Fruits & Vegetables|Dairy & Eggs
+V-0287,,,Dairy & Eggs|Frozen|Pantry
+V-0288,,,
+V-0289,,,
+V-0290,,,Dairy & Eggs|Fruits & Vegetables|Juices & Smoothies
+V-0291,,,
+V-0292,vegan,,Juices & Smoothies|Bakery|Pantry
+V-0293,,,Juices & Smoothies|Fruits & Vegetables|Dairy & Eggs
+V-0294,,,Frozen|Pantry
+V-0295,,nuts,Pantry|Fruits & Vegetables
+V-0296,,,Dairy & Eggs|Water & Soft Drinks|Frozen
+V-0297,vegetarian,,Frozen|Pantry
+V-0298,,,
+V-0299,vegetarian,milk,Pantry
+V-0300,,,Pantry
+V-0301,,,Water & Soft Drinks|Frozen|Dairy & Eggs
+V-0302,,,Frozen|Pantry|Water & Soft Drinks
+V-0303,,sesame,
+V-0304,,,Frozen
+V-0305,,,
+V-0306,vegetarian,,
+V-0307,,,Snacks & Sweets
+V-0308,,,Snacks & Sweets|Frozen
+V-0309,,,
+V-0310,,,Fruits & Vegetables
+V-0311,vegetarian,,Frozen
+V-0312,,,
+V-0313,,,
+V-0314,,,Snacks & Sweets|Frozen
+V-0315,,,
+V-0316,,,
+V-0317,,,
+V-0318,,,
+V-0319,,,Snacks & Sweets
+V-0320,,,
+V-0321,,fish,
+V-0322,,gluten,
+V-0323,,,Frozen
+V-0324,,,
+V-0325,,,Snacks & Sweets|Water & Soft Drinks
+V-0326,,,
+V-0327,,,Dairy & Eggs|Frozen
+V-0328,,,Frozen|Water & Soft Drinks|Meat & Fish
+V-0329,,,Frozen|Bakery|Juices & Smoothies
+V-0330,,,Frozen|Water & Soft Drinks
+V-0331,,,
+V-0332,gluten_free,,Meat & Fish|Dairy & Eggs|Water & Soft Drinks
+V-0333,,,Frozen
+V-0334,,,
+V-0335,,eggs,Bakery|Dairy & Eggs
+V-0336,,,Frozen|Meat & Fish|Fruits & Vegetables
+V-0337,,,
+V-0338,,,
+V-0339,,milk|fish,Fruits & Vegetables|Pantry|Meat & Fish
+V-0340,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0341,,milk,
+V-0342,,,
+V-0343,gluten_free,,Water & Soft Drinks
+V-0344,,,
+V-0345,,,Dairy & Eggs
+V-0346,,,Snacks & Sweets|Frozen
+V-0347,,,Bakery
+V-0348,,nuts,Frozen|Pantry|Meat & Fish
+V-0349,,,
+V-0350,,,Water & Soft Drinks
+V-0351,,,Pantry|Fruits & Vegetables|Meat & Fish
+V-0352,,,Dairy & Eggs|Pantry|Frozen
+V-0353,,,Frozen|Dairy & Eggs|Pantry
+V-0354,,,Dairy & Eggs|Pantry|Fruits & Vegetables
+V-0355,,,Dairy & Eggs
+V-0356,,,Frozen
+V-0357,,,Bakery|Pantry|Dairy & Eggs
+V-0358,,,Frozen|Water & Soft Drinks|Pantry
+V-0359,,,Bakery|Dairy & Eggs|Frozen
+V-0360,,,Bakery|Pantry|Snacks & Sweets
+V-0361,vegetarian,,
+V-0362,,,
+V-0363,,,
+V-0364,,,
+V-0365,,,Bakery|Pantry|Snacks & Sweets
+V-0366,,,
+V-0367,,,Frozen|Pantry|Bakery
+V-0368,vegetarian,gluten,Fruits & Vegetables|Pantry
+V-0369,,milk,Snacks & Sweets|Water & Soft Drinks
+V-0370,,,
+V-0371,,,Bakery|Dairy & Eggs
+V-0372,,,
+V-0373,,,Snacks & Sweets
+V-0374,,,
+V-0375,,,Dairy & Eggs|Frozen|Pantry
+V-0376,,,Dairy & Eggs|Frozen
+V-0377,gluten_free,,Fruits & Vegetables|Pantry|Water & Soft Drinks
+V-0378,,,
+V-0379,,,
+V-0380,,,
+V-0381,,,
+V-0382,,,Dairy & Eggs|Meat & Fish|Fruits & Vegetables
+V-0383,,,Snacks & Sweets|Frozen
+V-0384,,,Frozen|Pantry
+V-0385,vegan,,Pantry|Juices & Smoothies|Frozen
+V-0386,,,
+V-0387,,milk,
+V-0388,,,Bakery
+V-0389,vegetarian,,Frozen|Water & Soft Drinks
+V-0390,,,Frozen
+V-0391,vegetarian,,
+V-0392,,,Water & Soft Drinks
+V-0393,,,Pantry|Fruits & Vegetables|Water & Soft Drinks
+V-0394,,,Dairy & Eggs|Juices & Smoothies
+V-0395,,,
+V-0396,,,Snacks & Sweets
+V-0397,,,
+V-0398,,,Pantry
+V-0399,,,
+V-0400,,,Pantry|Fruits & Vegetables
+V-0401,,,
+V-0402,,,Bakery|Pantry|Snacks & Sweets
+V-0403,,,
+V-0404,,,Frozen|Water & Soft Drinks
+V-0405,,gluten|nuts,Snacks & Sweets|Water & Soft Drinks
+V-0406,,,Bakery|Pantry|Snacks & Sweets
+V-0407,,,Bakery
+V-0408,,,
+V-0409,,,Frozen
+V-0410,,,Dairy & Eggs
+V-0411,,,
+V-0412,,,
+V-0413,,,Pantry
+V-0414,,,Juices & Smoothies
+V-0415,,,
+V-0416,,,Dairy & Eggs|Bakery
+V-0417,,,Dairy & Eggs
+V-0418,gluten_free,,
+V-0419,,peanuts,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0420,,,
+V-0421,,,Dairy & Eggs|Frozen
+V-0422,,,Snacks & Sweets|Water & Soft Drinks
+V-0423,,nuts,
+V-0424,,,Bakery|Frozen
+V-0425,,,Frozen|Water & Soft Drinks|Pantry
+V-0426,,,Frozen|Snacks & Sweets|Water & Soft Drinks
+V-0427,vegetarian,,Snacks & Sweets|Water & Soft Drinks
+V-0428,,,
+V-0429,,,Dairy & Eggs|Fruits & Vegetables|Pantry
+V-0430,,,
+V-0431,,,Frozen
+V-0432,,,Bakery|Pantry
+V-0433,,,
+V-0434,,,Pantry
+V-0435,,,Frozen
+V-0436,,,Water & Soft Drinks|Dairy & Eggs|Frozen
+V-0437,,,Pantry
+V-0438,,,Frozen
+V-0439,,,Dairy & Eggs|Pantry
+V-0440,,,
+V-0441,,,Snacks & Sweets
+V-0442,,peanuts,Frozen|Water & Soft Drinks|Pantry
+V-0443,,,Bakery|Pantry
+V-0444,,,Snacks & Sweets
+V-0445,,,Snacks & Sweets|Water & Soft Drinks|Frozen
+V-0446,,,Bakery
+V-0447,vegan,,Juices & Smoothies
+V-0448,,,Dairy & Eggs
+V-0449,,,Pantry
+V-0450,,milk,Fruits & Vegetables|Pantry
+V-0451,,,Dairy & Eggs|Frozen|Pantry
+V-0452,,,Bakery
+V-0453,,,
+V-0454,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0455,,,Frozen
+V-0456,,peanuts,Frozen
+V-0457,,,
+V-0458,,,
+V-0459,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0460,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0461,,,
+V-0462,,,
+V-0463,,crustaceans,Frozen|Dairy & Eggs
+V-0464,vegan,milk|fish,
+V-0465,,,Dairy & Eggs
+V-0466,,,Bakery|Pantry
+V-0467,,,
+V-0468,,,
+V-0469,gluten_free,,
+V-0470,,,
+V-0471,,,Pantry|Fruits & Vegetables
+V-0472,,,
+V-0473,,,Bakery|Pantry|Meat & Fish
+V-0474,,,
+V-0475,,,Dairy & Eggs|Juices & Smoothies
+V-0476,,,
+V-0477,,,Snacks & Sweets|Frozen
+V-0478,,gluten,
+V-0479,,,Frozen|Dairy & Eggs
+V-0480,,,Snacks & Sweets|Water & Soft Drinks
+V-0481,,eggs,
+V-0482,,,
+V-0483,,,
+V-0484,,nuts,
+V-0485,,,Bakery|Pantry
+V-0486,,,
+V-0487,,,Frozen
+V-0488,vegan,peanuts,
+V-0489,,,
+V-0490,,,
+V-0491,,,
+V-0492,,,Bakery|Dairy & Eggs
+V-0493,,,
+V-0494,,,Water & Soft Drinks
+V-0495,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0496,,,Bakery|Pantry
+V-0497,,,Frozen|Dairy & Eggs
+V-0498,,,Pantry|Bakery|Meat & Fish
+V-0499,,,Snacks & Sweets|Frozen
+V-0500,,,
+V-0501,,,Frozen|Dairy & Eggs
+V-0502,vegetarian|gluten_free,,Pantry|Dairy & Eggs
+V-0503,vegetarian,,Bakery|Pantry|Dairy & Eggs
+V-0504,,,
+V-0505,,,
+V-0506,,,Bakery|Dairy & Eggs|Juices & Smoothies
+V-0507,,nuts,Juices & Smoothies
+V-0508,,,Fruits & Vegetables|Pantry
+V-0509,,,Bakery
+V-0510,,,
+V-0511,,fish,
+V-0512,,milk|peanuts,Snacks & Sweets|Water & Soft Drinks
+V-0513,,,Frozen
+V-0514,,,
+V-0515,,,Bakery|Snacks & Sweets|Pantry
+V-0516,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0517,,,
+V-0518,,,Water & Soft Drinks|Frozen
+V-0519,vegan,,Bakery|Juices & Smoothies|Pantry
+V-0520,,,Dairy & Eggs|Frozen|Pantry
+V-0521,,peanuts,Dairy & Eggs
+V-0522,,,Frozen
+V-0523,,,Bakery
+V-0524,,,Bakery
+V-0525,,,Dairy & Eggs
+V-0526,,,Bakery|Frozen
+V-0527,,,Frozen|Water & Soft Drinks
+V-0528,,crustaceans,
+V-0529,,nuts,Dairy & Eggs|Pantry
+V-0530,,,Pantry
+V-0531,,milk,Water & Soft Drinks
+V-0532,,,Water & Soft Drinks
+V-0533,,,Juices & Smoothies
+V-0534,,,
+V-0535,,fish,Frozen|Water & Soft Drinks
+V-0536,vegetarian,,Snacks & Sweets|Water & Soft Drinks|Frozen
+V-0537,vegetarian,,
+V-0538,,,Bakery|Juices & Smoothies
+V-0539,,,Bakery|Pantry|Meat & Fish
+V-0540,,,
+V-0541,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0542,gluten_free,peanuts,Juices & Smoothies
+V-0543,,soy,
+V-0544,,,Bakery
+V-0545,,,
+V-0546,,,
+V-0547,,gluten|nuts,
+V-0548,vegetarian,,Pantry|Fruits & Vegetables
+V-0549,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0550,,,Frozen
+V-0551,,,Dairy & Eggs
+V-0552,,,Dairy & Eggs|Fruits & Vegetables
+V-0553,,,
+V-0554,,,Frozen
+V-0555,,,Frozen
+V-0556,,,
+V-0557,,,Dairy & Eggs|Frozen|Water & Soft Drinks
+V-0558,,,Frozen|Juices & Smoothies|Bakery
+V-0559,,,Dairy & Eggs|Juices & Smoothies
+V-0560,,nuts,
+V-0561,,,
+V-0562,,,Bakery
+V-0563,,soy,Bakery|Pantry
+V-0564,,,Frozen
+V-0565,,milk|nuts,
+V-0566,,,Dairy & Eggs|Frozen
+V-0567,,,
+V-0568,,,Dairy & Eggs|Frozen|Pantry
+V-0569,,,
+V-0570,,,Water & Soft Drinks|Frozen|Dairy & Eggs
+V-0571,,,Bakery|Dairy & Eggs
+V-0572,,,
+V-0573,,,
+V-0574,,,
+V-0575,,,Pantry
+V-0576,,milk,Bakery|Juices & Smoothies
+V-0577,,,
+V-0578,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0579,,,
+V-0580,,,Juices & Smoothies|Dairy & Eggs|Pantry
+V-0581,,,Dairy & Eggs|Pantry
+V-0582,,,Pantry|Fruits & Vegetables
+V-0583,vegetarian,,Dairy & Eggs|Frozen
+V-0584,,,
+V-0585,,,Frozen
+V-0586,,,Frozen
+V-0587,,,
+V-0588,,,Pantry|Dairy & Eggs|Frozen
+V-0589,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0590,,,Dairy & Eggs|Frozen|Pantry
+V-0591,,,
+V-0592,,,Pantry|Fruits & Vegetables
+V-0593,,,Dairy & Eggs|Frozen|Water & Soft Drinks
+V-0594,vegetarian,,
+V-0595,,soy,Frozen
+V-0596,,,
+V-0597,,,Dairy & Eggs
+V-0598,,eggs,Frozen|Pantry|Meat & Fish
+V-0599,,,
+V-0600,vegan,,Juices & Smoothies
+V-0601,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0602,,,
+V-0603,,,
+V-0604,,eggs,Bakery
+V-0605,,,
+V-0606,,,
+V-0607,vegan,,Water & Soft Drinks
+V-0608,,milk,Meat & Fish|Water & Soft Drinks|Fruits & Vegetables
+V-0609,,,Pantry|Bakery|Dairy & Eggs
+V-0610,,,Frozen|Bakery|Juices & Smoothies
+V-0611,vegetarian,,
+V-0612,,,
+V-0613,,nuts,
+V-0614,vegetarian,,Bakery|Frozen
+V-0615,,,Bakery|Dairy & Eggs|Juices & Smoothies
+V-0616,,,Snacks & Sweets
+V-0617,,,Snacks & Sweets|Frozen|Bakery
+V-0618,,,
+V-0619,,,Dairy & Eggs|Meat & Fish
+V-0620,,milk,
+V-0621,,,
+V-0622,,,Pantry
+V-0623,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0624,,,Pantry
+V-0625,,,
+V-0626,,nuts|sesame,
+V-0627,,,Frozen|Meat & Fish|Water & Soft Drinks
+V-0628,,,
+V-0629,,,
+V-0630,,,Bakery
+V-0631,,,
+V-0632,,,Bakery
+V-0633,,,
+V-0634,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0635,,,Bakery|Pantry|Dairy & Eggs
+V-0636,,,
+V-0637,vegetarian,,
+V-0638,,,
+V-0639,,,
+V-0640,,,Dairy & Eggs|Frozen|Pantry
+V-0641,,,
+V-0642,,,Frozen|Pantry
+V-0643,,,
+V-0644,,sesame,
+V-0645,,,Frozen
+V-0646,,,Frozen|Water & Soft Drinks|Snacks & Sweets
+V-0647,,,Dairy & Eggs|Juices & Smoothies
+V-0648,,,
+V-0649,,gluten,Dairy & Eggs
+V-0650,,,Dairy & Eggs|Frozen
+V-0651,vegetarian,,
+V-0652,,,
+V-0653,,,Bakery|Pantry
+V-0654,,,Frozen|Water & Soft Drinks
+V-0655,,,
+V-0656,,,
+V-0657,,,
+V-0658,,,Juices & Smoothies|Bakery|Dairy & Eggs
+V-0659,,,Frozen|Water & Soft Drinks|Snacks & Sweets
+V-0660,gluten_free,,
+V-0661,,,
+V-0662,,,Fruits & Vegetables|Pantry
+V-0663,,,Dairy & Eggs|Juices & Smoothies
+V-0664,,,Juices & Smoothies|Fruits & Vegetables
+V-0665,,,Fruits & Vegetables
+V-0666,,,Frozen|Dairy & Eggs
+V-0667,,,Dairy & Eggs|Frozen|Pantry
+V-0668,,,Bakery
+V-0669,,,
+V-0670,,,Pantry|Fruits & Vegetables
+V-0671,,,Bakery|Dairy & Eggs
+V-0672,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0673,,,Dairy & Eggs|Frozen|Pantry
+V-0674,vegetarian,,Bakery|Pantry
+V-0675,vegetarian,gluten,Pantry|Dairy & Eggs|Fruits & Vegetables
+V-0676,,,Dairy & Eggs|Frozen
+V-0677,,,
+V-0678,,,Frozen|Dairy & Eggs|Pantry
+V-0679,,,Juices & Smoothies
+V-0680,,,Frozen
+V-0681,,,
+V-0682,,peanuts,
+V-0683,,,
+V-0684,,milk,Water & Soft Drinks|Meat & Fish|Fruits & Vegetables
+V-0685,,,
+V-0686,,,Dairy & Eggs|Pantry|Juices & Smoothies
+V-0687,,nuts,Snacks & Sweets
+V-0688,,,Bakery
+V-0689,,,Water & Soft Drinks|Frozen|Dairy & Eggs
+V-0690,,nuts|soy,
+V-0691,,,
+V-0692,,,Fruits & Vegetables|Pantry|Water & Soft Drinks
+V-0693,,,
+V-0694,,,Frozen|Pantry
+V-0695,vegan,,
+V-0696,,,Juices & Smoothies
+V-0697,gluten_free,,Meat & Fish|Dairy & Eggs|Water & Soft Drinks
+V-0698,,,Dairy & Eggs|Fruits & Vegetables|Juices & Smoothies
+V-0699,,,Dairy & Eggs
+V-0700,,milk,Frozen|Pantry|Meat & Fish
+V-0701,,eggs,Fruits & Vegetables|Meat & Fish
+V-0702,,gluten,
+V-0703,,,Frozen|Pantry|Juices & Smoothies
+V-0704,,,Frozen|Water & Soft Drinks
+V-0705,,nuts,Juices & Smoothies
+V-0706,,nuts|eggs,Bakery|Pantry|Fruits & Vegetables
+V-0707,,nuts,
+V-0708,,gluten,Water & Soft Drinks|Juices & Smoothies
+V-0709,,,
+V-0710,,,
+V-0711,,,
+V-0712,,,Dairy & Eggs|Frozen|Pantry
+V-0713,,,
+V-0714,gluten_free,,Water & Soft Drinks|Pantry
+V-0715,,,
+V-0716,vegan,,Frozen|Water & Soft Drinks
+V-0717,gluten_free,,
+V-0718,gluten_free,,
+V-0719,,,Dairy & Eggs|Frozen|Pantry
+V-0720,,,Frozen|Pantry|Water & Soft Drinks
+V-0721,,,Juices & Smoothies|Dairy & Eggs
+V-0722,,,Fruits & Vegetables|Pantry
+V-0723,,,Dairy & Eggs
+V-0724,,,Bakery|Juices & Smoothies
+V-0725,vegan|gluten_free,,Fruits & Vegetables
+V-0726,vegetarian,,
+V-0727,,gluten|nuts,Dairy & Eggs|Water & Soft Drinks|Pantry
+V-0728,,,
+V-0729,,,Dairy & Eggs
+V-0730,,,Meat & Fish|Dairy & Eggs|Water & Soft Drinks
+V-0731,vegetarian,,Pantry|Fruits & Vegetables|Water & Soft Drinks
+V-0732,,,Dairy & Eggs
+V-0733,,,Snacks & Sweets|Frozen
+V-0734,,,Dairy & Eggs
+V-0735,,,Snacks & Sweets
+V-0736,vegan,,Snacks & Sweets|Water & Soft Drinks
+V-0737,,,
+V-0738,,peanuts,Pantry
+V-0739,,,Pantry
+V-0740,,,
+V-0741,,soy,Frozen
+V-0742,,,Pantry
+V-0743,,milk,
+V-0744,,,Fruits & Vegetables|Pantry
+V-0745,vegan,,Snacks & Sweets
+V-0746,,,Dairy & Eggs|Fruits & Vegetables
+V-0747,,,
+V-0748,,,
+V-0749,,,Pantry|Bakery|Fruits & Vegetables
+V-0750,,,
+V-0751,,gluten,Dairy & Eggs|Frozen
+V-0752,,soy,
+V-0753,,,
+V-0754,,,
+V-0755,,,
+V-0756,,,Frozen|Pantry
+V-0757,,,Frozen|Juices & Smoothies
+V-0758,,,
+V-0759,,,
+V-0760,,,Dairy & Eggs
+V-0761,,,
+V-0762,,,Dairy & Eggs|Frozen
+V-0763,,,
+V-0764,,,Bakery|Dairy & Eggs|Juices & Smoothies
+V-0765,,,Frozen|Water & Soft Drinks
+V-0766,,,Dairy & Eggs|Frozen
+V-0767,,gluten,Pantry|Meat & Fish|Water & Soft Drinks
+V-0768,,,
+V-0769,,eggs,
+V-0770,,,Frozen
+V-0771,,,
+V-0772,,,Fruits & Vegetables
+V-0773,,,
+V-0774,,,Bakery|Juices & Smoothies|Dairy & Eggs
+V-0775,,,
+V-0776,vegetarian,,Fruits & Vegetables
+V-0777,,,
+V-0778,,,
+V-0779,,,Frozen
+V-0780,,nuts,
+V-0781,,,Bakery|Pantry|Snacks & Sweets
+V-0782,,,
+V-0783,,,Dairy & Eggs|Frozen|Pantry
+V-0784,,,
+V-0785,,peanuts,
+V-0786,,,Bakery|Dairy & Eggs
+V-0787,,,Frozen|Dairy & Eggs
+V-0788,,,
+V-0789,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0790,,,
+V-0791,,milk,
+V-0792,,fish,
+V-0793,,,
+V-0794,,,
+V-0795,,peanuts,Snacks & Sweets|Frozen
+V-0796,,,Bakery
+V-0797,,,Frozen
+V-0798,,,
+V-0799,,,Frozen|Water & Soft Drinks
+V-0800,gluten_free,,Pantry
+V-0801,,peanuts,Fruits & Vegetables|Pantry|Meat & Fish
+V-0802,,milk,
+V-0803,,,Dairy & Eggs
+V-0804,,,
+V-0805,,,Fruits & Vegetables|Pantry|Water & Soft Drinks
+V-0806,,,Water & Soft Drinks|Dairy & Eggs|Meat & Fish
+V-0807,,,Juices & Smoothies|Fruits & Vegetables|Pantry
+V-0808,,nuts|eggs,
+V-0809,,,
+V-0810,vegetarian,nuts,
+V-0811,,,
+V-0812,,,Bakery|Pantry|Snacks & Sweets
+V-0813,,,
+V-0814,,,Juices & Smoothies
+V-0815,,,Frozen|Dairy & Eggs|Pantry
+V-0816,,,
+V-0817,,,
+V-0818,,,Frozen|Snacks & Sweets
+V-0819,,,Juices & Smoothies|Bakery
+V-0820,,,Bakery|Pantry
+V-0821,vegan,,Water & Soft Drinks
+V-0822,,,
+V-0823,,,
+V-0824,,,Snacks & Sweets|Water & Soft Drinks|Frozen
+V-0825,vegetarian,,
+V-0826,,,Frozen
+V-0827,vegetarian,,Dairy & Eggs|Bakery|Frozen
+V-0828,,,Dairy & Eggs|Juices & Smoothies|Frozen
+V-0829,,,
+V-0830,,,Frozen
+V-0831,,,Dairy & Eggs|Pantry|Frozen
+V-0832,,milk,Snacks & Sweets
+V-0833,,,Meat & Fish|Frozen|Bakery
+V-0834,vegetarian,,Frozen|Juices & Smoothies|Water & Soft Drinks
+V-0835,vegetarian,,Bakery|Pantry|Snacks & Sweets
+V-0836,,,
+V-0837,,,Dairy & Eggs|Frozen|Bakery
+V-0838,,,Bakery
+V-0839,,,
+V-0840,,,Bakery
+V-0841,,,
+V-0842,,,Dairy & Eggs|Frozen|Meat & Fish
+V-0843,,,Fruits & Vegetables
+V-0844,,,Bakery|Pantry
+V-0845,,,Pantry|Bakery
+V-0846,,,Bakery
+V-0847,,,Snacks & Sweets|Frozen|Bakery
+V-0848,,,
+V-0849,,,
+V-0850,,,
+V-0851,vegan,,
+V-0852,,,
+V-0853,vegetarian,,Dairy & Eggs|Frozen|Pantry
+V-0854,,,
+V-0855,,,Frozen|Pantry
+V-0856,,,
+V-0857,,,Pantry
+V-0858,,,
+V-0859,,,Dairy & Eggs
+V-0860,,,Frozen|Pantry|Water & Soft Drinks
+V-0861,,,
+V-0862,,milk,Frozen
+V-0863,,,
+V-0864,,,Frozen|Water & Soft Drinks|Pantry
+V-0865,,,
+V-0866,,,
+V-0867,,,Dairy & Eggs|Juices & Smoothies|Bakery
+V-0868,,,
+V-0869,,,
+V-0870,,,Dairy & Eggs
+V-0871,,eggs,
+V-0872,,,Frozen
+V-0873,,,Frozen|Meat & Fish|Water & Soft Drinks
+V-0874,,,
+V-0875,,gluten,Dairy & Eggs|Fruits & Vegetables
+V-0876,,,Pantry
+V-0877,,,
+V-0878,,,
+V-0879,,,
+V-0880,,peanuts,
+V-0881,,,Bakery
+V-0882,,,
+V-0883,,,Frozen|Water & Soft Drinks|Pantry
+V-0884,,eggs,Pantry|Bakery|Dairy & Eggs
+V-0885,,,
+V-0886,,,Dairy & Eggs|Frozen
+V-0887,,,
+V-0888,,nuts,Bakery
+V-0889,,milk,
+V-0890,,,Bakery|Juices & Smoothies
+V-0891,,,Frozen|Pantry|Bakery
+V-0892,,,Juices & Smoothies|Fruits & Vegetables
+V-0893,vegetarian,gluten,Pantry|Dairy & Eggs
+V-0894,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0895,vegetarian,,
+V-0896,,,Dairy & Eggs
+V-0897,,,
+V-0898,,,Dairy & Eggs
+V-0899,,,Pantry
+V-0900,vegan,,
+V-0901,,,Frozen
+V-0902,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0903,,,
+V-0904,,,Juices & Smoothies|Fruits & Vegetables|Pantry
+V-0905,,,
+V-0906,,,
+V-0907,,,
+V-0908,vegetarian,,
+V-0909,,,Bakery|Frozen|Dairy & Eggs
+V-0910,,,
+V-0911,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0912,,,
+V-0913,vegetarian,,Frozen|Dairy & Eggs|Pantry
+V-0914,,,
+V-0915,,,Frozen|Dairy & Eggs|Pantry
+V-0916,,,Fruits & Vegetables|Pantry|Meat & Fish
+V-0917,,,Dairy & Eggs
+V-0918,,,
+V-0919,,,
+V-0920,,milk,Pantry
+V-0921,,,Dairy & Eggs|Juices & Smoothies|Fruits & Vegetables
+V-0922,vegan,,Bakery
+V-0923,,,
+V-0924,,,Dairy & Eggs|Frozen
+V-0925,,,
+V-0926,,,
+V-0927,,,Bakery
+V-0928,,,Frozen
+V-0929,,,Dairy & Eggs
+V-0930,gluten_free,,Pantry
+V-0931,,,Pantry|Fruits & Vegetables|Meat & Fish
+V-0932,,,
+V-0933,,,
+V-0934,vegan,,
+V-0935,,,Fruits & Vegetables|Pantry
+V-0936,gluten_free,fish,
+V-0937,,fish,Pantry
+V-0938,,,Meat & Fish|Dairy & Eggs
+V-0939,,,
+V-0940,,,Snacks & Sweets|Frozen|Water & Soft Drinks
+V-0941,,,
+V-0942,vegetarian,milk,Juices & Smoothies|Fruits & Vegetables|Pantry
+V-0943,vegetarian,,
+V-0944,,,Dairy & Eggs|Fruits & Vegetables
+V-0945,,,
+V-0946,,,Frozen|Meat & Fish
+V-0947,,,
+V-0948,,,Bakery
+V-0949,,,Frozen
+V-0950,,,Snacks & Sweets|Frozen
+V-0951,,,
+V-0952,,milk,
+V-0953,,,
+V-0954,,,Juices & Smoothies|Dairy & Eggs
+V-0955,,,Water & Soft Drinks
+V-0956,,,Pantry|Fruits & Vegetables|Meat & Fish
+V-0957,,,Frozen|Pantry
+V-0958,vegetarian,gluten,
+V-0959,,,
+V-0960,,,
+V-0961,,,Snacks & Sweets|Bakery
+V-0962,,,
+V-0963,,,
+V-0964,,,Frozen|Pantry
+V-0965,,,
+V-0966,,,Dairy & Eggs|Fruits & Vegetables|Pantry
+V-0967,,,
+V-0968,,eggs,
+V-0969,,soy,Frozen|Snacks & Sweets
+V-0970,,,
+V-0971,,nuts,
+V-0972,,,
+V-0973,vegan,,Snacks & Sweets|Water & Soft Drinks
+V-0974,,,Bakery|Frozen|Dairy & Eggs
+V-0975,,,
+V-0976,,,Snacks & Sweets|Water & Soft Drinks
+V-0977,,gluten,
+V-0978,,,Frozen|Dairy & Eggs
+V-0979,,,
+V-0980,gluten_free,,
+V-0981,vegetarian,,
+V-0982,,,
+V-0983,,,Dairy & Eggs
+V-0984,,,Frozen
+V-0985,,,
+V-0986,,,Water & Soft Drinks|Dairy & Eggs
+V-0987,,,Snacks & Sweets|Bakery
+V-0988,,,Snacks & Sweets|Frozen
+V-0989,vegan,,Water & Soft Drinks|Fruits & Vegetables|Pantry
+V-0990,,,Frozen
+V-0991,,,
+V-0992,,,Dairy & Eggs|Pantry|Juices & Smoothies
+V-0993,,,Frozen|Dairy & Eggs|Pantry
+V-0994,vegan,,Pantry
+V-0995,,,Juices & Smoothies
+V-0996,,,
+V-0997,,,
+V-0998,,gluten,Fruits & Vegetables
+V-0999,,,
+V-1000,,,Water & Soft Drinks|Dairy & Eggs
