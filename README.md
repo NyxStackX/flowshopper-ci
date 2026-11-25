@@ -141,6 +141,7 @@ The `reco` tests currently pass (4 tests). Both suites also run on every push th
 | Simulator | [docs/SIMULATOR.md](docs/SIMULATOR.md) |
 | Testing | [docs/TESTING.md](docs/TESTING.md) |
 | Model comparison | [reco/docs/MODEL_COMPARISON.md](reco/docs/MODEL_COMPARISON.md) |
+| Mockups | [docs/mockups/README.md](docs/mockups/README.md) |
 | Recommendation system | [reco/README.md](reco/README.md) |
 | AI usage disclosure | [AI_USAGE.md](AI_USAGE.md) |
 
