@@ -25,8 +25,9 @@ This repository is a monorepo holding the whole integrated product:
 Everything runs locally. No external AI service is used; the only external service is the
 payment provider, in test mode.
 
-> **Current status**: the repository is a skeleton. The `reco/` API starts and its tests pass,
-> but the five features, the site, the back-office and the simulator are still to be implemented.
+> **Current status**: the repository is a skeleton. The `reco/` API starts and its tests pass.
+> The site shows the catalog by aisle. The five features, the rest of the site, the back-office
+> and the simulator are still to be implemented.
 > Parts that do not work yet are marked **(not implemented yet)** below.
 
 ## 2. Prerequisites
@@ -34,7 +35,7 @@ payment provider, in test mode.
 | Tool | Version | Used for |
 |------|---------|----------|
 | Python | 3.11 or newer | Recommendation system (`reco/`) |
-| Node.js | 20 or newer | Site, back-office and server (`web/`) |
+| Node.js | 20.19 or newer (or 22.12 or newer) | Site, back-office and server (`web/`) |
 | Git | any recent version | Cloning |
 
 Minimum machine: any laptop with 4 GB of RAM. No GPU is needed: models are trained on CPU.
@@ -89,6 +90,8 @@ to `.env` and adapt it. Only test keys are used; no secret is committed.
 |----------|------|---------------|
 | `SITE_PORT` | Port of the site | `3000` |
 | `BACKOFFICE_PORT` | Port of the back-office | `3001` |
+| `CLIENT_DEV_PORT` | Port of the React app in development; it forwards `/api` to `SITE_PORT` | `5173` |
+| `CATALOG_PATH` | Catalog CSV read by the web server, relative to the repository root | `reco/data/flowshopper_catalog.csv` |
 | `DATABASE_URL` | Database of the site (accounts, carts, orders, stock) | `sqlite:./data/flowshopper.db` |
 | `RECO_API_URL` | Address of the recommendation API (real one, or `mocks/reco-mock`) | `http://localhost:8000` |
 | `RECO_TIMEOUT_MS` | Time the site waits for the recommendation API before running without suggestions | `800` |
@@ -103,7 +106,7 @@ One command per part, each from the repository root.
 | Part | Command | URL / port |
 |------|---------|-----------|
 | Recommendation API | `cd reco && source .venv/bin/activate && uvicorn src.api:app --port 8000` | http://localhost:8000 (`/health` answers `{"status":"ok"}`) |
-| Site | `cd web && npm run dev` **(not implemented yet: prints a placeholder)** | http://localhost:3000 |
+| Site | `cd web && npm run dev` (store API and React app together) | http://localhost:5173 (API on http://localhost:3000) |
 | Back-office | served by the web server **(not implemented yet)** | http://localhost:3001 |
 | Simulator | **(not implemented yet)** | - |
 | Webhook forwarding | `stripe listen --forward-to localhost:3000/webhooks/stripe` **(route not implemented yet)** | - |
@@ -141,6 +144,7 @@ The `reco` tests currently pass (4 tests). Both suites also run on every push th
 | Simulator | [docs/SIMULATOR.md](docs/SIMULATOR.md) |
 | Testing | [docs/TESTING.md](docs/TESTING.md) |
 | Model comparison | [reco/docs/MODEL_COMPARISON.md](reco/docs/MODEL_COMPARISON.md) |
+| Mockups | [docs/mockups/README.md](docs/mockups/README.md) |
 | Recommendation system | [reco/README.md](reco/README.md) |
 | AI usage disclosure | [AI_USAGE.md](AI_USAGE.md) |
 

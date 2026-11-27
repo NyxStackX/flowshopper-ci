@@ -10,3 +10,7 @@ coverage/
 models/*.pkl
 models/*.joblib
 .DS_Store
+
+# Test reports
+playwright-report/
+test-results/

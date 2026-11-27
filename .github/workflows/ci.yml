@@ -1,17 +1,35 @@
 name: CI
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
 
 jobs:
   web:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: cd web && npm ci
-      - run: cd web && npm run test:unit -- --coverage
-      - run: cd web && npm run test:e2e
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      # Unit tests with coverage: fails under 60 % (thresholds in vitest.config.js)
+      - run: npm run test:unit
+      - run: npx playwright install --with-deps chromium
+      # End-to-end tests on desktop and phone screens, with axe-core accessibility checks
+      - run: npm run test:e2e
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: web-reports
+          path: |
+            web/coverage/
+            web/playwright-report/
+          retention-days: 7
 
   reco:
     runs-on: ubuntu-latest
