@@ -35,7 +35,7 @@ payment provider, in test mode.
 | Tool | Version | Used for |
 |------|---------|----------|
 | Python | 3.11 or newer | Recommendation system (`reco/`) |
-| Node.js | 20 or newer | Site, back-office and server (`web/`) |
+| Node.js | 20.19 or newer (or 22.12 or newer) | Site, back-office and server (`web/`) |
 | Git | any recent version | Cloning |
 
 Minimum machine: any laptop with 4 GB of RAM. No GPU is needed: models are trained on CPU.
